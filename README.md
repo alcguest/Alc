@@ -1,0 +1,5 @@
+## Kamikazelacoin
+At present, the transmission of point-to-point value of blockchain subverts people's imagination about the Internet. Blockchain applications also extend to all fields of economy and society. The most mature areas are the fields of finance (payment, transaction, settlement, trade finance, digital currency Other industries (new energy, health care, Internet of things, education, social management, etc.) are also being used at an accelerating stage in the development of sectors such as equity, private equity, bonds, financial derivatives, crowdfunding, credit, Chain application will be deep into all aspects of society. Blockchain technology has been successfully applied in the field of digital cryptocurrencies, in the future, there are also a wide range of application scenarios in smart games.
+
+## ALC简介
+目前，区块链点对点价值传输颠覆了人们对于互联网的想象，区块链应用也延伸到经济社会的 各个领域，其中最成熟的领域当属金融领域(支付，交易，结算，贸易金融，数字货币，股权，私 募，债券，金融衍生品，众筹，信贷，风控，征信)其他行业(新能源，医疗健康，物联网，教育， 社会管理等)的应用也在加速发展阶段，区块链应用将深入到社会的方方面面。区块链技术已成功 应用数字加密货币领域，未来，在智能游戏中也存在广泛的应用场景。
